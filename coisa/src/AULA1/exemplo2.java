@@ -20,5 +20,8 @@ public class exemplo2 {
 		 double area = base*altura/2;
 		 
 		System.out.println("O resultado é: "+area);
+		
+		entrada.close();
 	}
+	
 }

@@ -29,6 +29,8 @@ public class OITO {
         System.out.println("Digite um nome:");
         String nome = entrada.next();
         System.out.println("Nome: "+nome );
+        
+        entrada.close();
 
 	}
 

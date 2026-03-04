@@ -16,6 +16,8 @@ public class ex3 {
 		System.out.println("Numero é igual do que 10");
 	    }else
 	    System.out.println("Numero é menor do que 10");
+		
+		entrada.close();
 
 	}
 

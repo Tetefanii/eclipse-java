@@ -17,6 +17,8 @@ public class ex4 {
 		 break; 
 	 default:
 		 System.out.println("Padrão");
+		 
+		 entrada.close();
 	 }
 	}
 

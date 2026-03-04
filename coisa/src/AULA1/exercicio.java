@@ -28,6 +28,8 @@ public class exercicio {
         }
         double result = maior/menor;
         System.out.println("Resultado: "+result);
+        
+        entrada.close();
     }
 
 }

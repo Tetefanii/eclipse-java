@@ -12,7 +12,10 @@ public class ex9 {
 			String opcao = entrada.next();
 			if(opcao.equals("N")) {
 				break;
+						
 			}
+			
+		    entrada.close();
 			
 		}
 

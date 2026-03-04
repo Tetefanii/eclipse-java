@@ -28,6 +28,8 @@ public class contador {
 		}
 		System.out.println("Soma: "+soma);
 		System.out.println("Quantidade: "+qtdpares);
+		
+		entrada.close();
 
 	}
 

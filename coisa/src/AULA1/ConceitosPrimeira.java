@@ -1,21 +1,20 @@
 package AULA1;
 
-public class troço {
+public class ConceitosPrimeira {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// PORRRRRRRRRRRRRRRRRAAAAAAAAAAAAAAAAA
-		int soma;
+		//int soma;
 		
-		soma=10;
+		//soma=10;
 		
-		int num=5;
+		//int num=5;
 		
-		double num5=10.3;
+		//double num5=10.3;
 		
-		float num6=10.3f;
+		//float num6=10.3f;
 		
-		String nome = "TETTTTTEEEEEEEEEEE";
+		//String nome = "TETTTTTEEEEEEEEEEE";
 		
 		// operadores aritmeticos
 		
@@ -29,6 +28,7 @@ public class troço {
 		int b = 502152315;
 		int c = 805217567;
 		int resultado = (a*c)-b;
+		
 		System.out.println("quanto o Eric ta me devendo: " + resultado);
 		
 	}
